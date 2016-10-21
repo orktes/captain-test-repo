@@ -1,3 +1,3 @@
 module.exports.say = function (str) {
-  print(JSON.stringify(eventData));
+  print(getPullRequestFileContent(9, 'README.md'));
 };
