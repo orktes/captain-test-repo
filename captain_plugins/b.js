@@ -1,3 +1,3 @@
-var a = require('b');
+var a = require('a');
 
 a.say("foo");
