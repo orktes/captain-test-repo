@@ -1,3 +1,3 @@
 module.exports.say = function (str) {
-  print(str);
+  print(JSON.stringify(eventData));
 };
